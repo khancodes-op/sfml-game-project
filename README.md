@@ -41,7 +41,8 @@ This project is a great learning showcase for foundational C++ programming conce
 - ✅ **Pointers** – For dynamic entity management  
 - ✅ **Dynamic Memory** – Used to manage game objects at runtime  
 - ✅ **Structs** – To define entities and game components  
-- ✅ **Enums** – For direction handling and game state  
+- ✅ **Enums** – For direction handling and game state
+- ✅ **File Handling** – For keeping track of score and updating it 
 
 ---
 

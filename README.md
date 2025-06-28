@@ -23,26 +23,20 @@ The player controls a block that moves across the screen, trying to claim territ
 
 This project is a great learning showcase for foundational C++ programming concepts:
 
-- ✅ **Loops** – For game flow and input polling
-- ✅ **Pointers** – For dynamic entity management
-- ✅ **Dynamic Memory** – Used to manage game objects at runtime
-- ✅ **Structs** – To define entities and game components
-- ✅ **Enums** – For direction handling and game state
+- ✅ **Loops** – For game flow and input polling  
+- ✅ **Pointers** – For dynamic entity management  
+- ✅ **Dynamic Memory** – Used to manage game objects at runtime  
+- ✅ **Structs** – To define entities and game components  
+- ✅ **Enums** – For direction handling and game state  
 
 ---
 
 ## 🕹️ Controls
 
-| Key       | Action              |
-|-----------|---------------------|
-| Arrow Keys | Move player         |
-| Escape    | Exit the game       |
-
----
-
-## 📸 Screenshots
-
-*(You can add gameplay screenshots here to showcase the game visually.)*
+| Key        | Action        |
+|------------|---------------|
+| Arrow Keys | Move player   |
+| Escape     | Exit the game |
 
 ---
 

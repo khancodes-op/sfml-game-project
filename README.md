@@ -4,7 +4,8 @@ the main code of the game is present in the main.cpp
 this is an try to replicate the game XONIX . besides from the head to head collision everything is implemented.
 
 Major concepts used are:
-Pointers
-Dynamic memory 
-Struct
-Enum
+Loops,
+Pointers,
+Dynamic memory,
+Struct,
+Enum.
